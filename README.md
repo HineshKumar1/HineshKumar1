@@ -15,8 +15,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-[![Hinesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SameerShah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sscodez/github-readme-stats#gh-dark-mode-only)
-[![Hinesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SameerShah&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sscodez/github-readme-stats#gh-light-mode-only)
+[![Hinesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HineshKumar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sscodez/github-readme-stats#gh-dark-mode-only)
+[![Hinesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HineshKumar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sscodez/github-readme-stats#gh-light-mode-only)
 
 
 
