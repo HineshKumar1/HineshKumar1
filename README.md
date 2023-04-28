@@ -1,11 +1,8 @@
 
-<h1>Hi there 👋 I'm Hinesh </h1>
+<h1>Hi there 👋 I'm Hinesh Kumar</h1>
 
 <h2>Skills</h2> 
 
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -15,8 +12,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-[![Hinesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HineshKumar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sscodez/github-readme-stats#gh-dark-mode-only)
-[![Hinesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HineshKumar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sscodez/github-readme-stats#gh-light-mode-only)
+[![Hinesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HineshKumar1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sscodez/github-readme-stats#gh-dark-mode-only)
+[![Hinesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HineshKumar1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sscodez/github-readme-stats#gh-light-mode-only)
 
 
 
