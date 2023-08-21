@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Advance Backend Development<br>🎯 Goals: To be a good Software Engineer<br>🎲 Fun fact: Learner with streakes</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Advance Backend Concepts<br>🎯 Goals: To be a good Software Engineer<br>🎲 Fun fact: Learner with streakes</p>
 
 ###
 
