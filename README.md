@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hinesh and I'm a Backend Developer, from karachi</p>
+<p align="left">My name is Hinesh and I'm a Backend Developer</p>
 
 ###
 
