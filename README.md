@@ -3,6 +3,8 @@
 ###
 
 <p align="left">My name is Hinesh and I'm a Backend Developer</p>
+<img align="right" alt="Coding GIF" width="400" src="">
+
 
 ###
 
